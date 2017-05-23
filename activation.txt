@@ -1,0 +1,13 @@
+<activationrequest>
+<version>3</version>
+<machinehash>A0D3-D111-2FA7-FBEF</machinehash>
+<productcode>24</productcode>
+<majorversion>8</majorversion>
+<minorversion>0</minorversion>
+<serialnumber>BJ-V-G-41841-B4A6</serialnumber>
+<session>943ca5c9-3f6b-417e-a4c1-0974b4db6236</session>
+<locale>en-US</locale>
+<custom>
+<identifier>Khoa Tran@khoa-pc</identifier>
+</custom>
+</activationrequest>
